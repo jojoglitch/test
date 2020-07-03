@@ -1,0 +1,1 @@
+document.write("Heyo ladies and gentlemen");
